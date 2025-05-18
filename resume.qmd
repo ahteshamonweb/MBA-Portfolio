@@ -32,8 +32,11 @@ hr { border:none; border-top:1px solid #e0e0e0; margin:1rem 0; }
 <a href="images/Ahtesham_CV.pdf" download class="download-btn">Download CV</a>
 
 <!-- Header with Photo, Name, Title -->
+
 # AHTESHAM KHAN
-**Television & Digital media specialist**
+
+***Marketing & Media specialist***
+
 <hr>
 
 <!-- Contact Info -->
@@ -68,13 +71,13 @@ Worked with renowned broadcasters like NDTV Ltd. and Qatar Media Corporation, de
 
 ## PROFESSIONAL EXPERIENCE
 
-+-------------------------------------------+-----------------------+
-| **ZYRA Media LLP**, New Delhi, India      | *Nov 2016 – Jan 2024* |
-|                                           |                       |
-| *Founder*                                 |                       |
-+===========================================+=======================+
-|                                           |                       |
-+-------------------------------------------+-----------------------+
++------------------------------------------+-----------------------+
+| **ZYRA Media LLP**, New Delhi, India     | *Nov 2016 – Jan 2024* |
+|                                          |                       |
+| *Founder*                                |                       |
++==========================================+=======================+
+|                                          |                       |
++------------------------------------------+-----------------------+
 
 -   Led end-to-end video production for digital content, marketing campaigns & branded storytelling.
 -   Managed photo/video shoots, post-production, budgets & vendors.
