@@ -1,0 +1,82 @@
+---
+title: "Contact"
+format: html
+include-in-header:
+  text: |
+    <style>
+      .contact-form {
+        max-width: 600px;
+        margin: 2rem auto;
+        padding: 1.5rem;
+        border: 1px solid #e0e0e0;
+        border-radius: 8px;
+        background: #fafafa;
+      }
+      .contact-form label {
+        font-weight: 600;
+        display: block;
+        margin-bottom: .25rem;
+      }
+      .contact-form input,
+      .contact-form textarea {
+        width: 100%;
+        padding: .5rem;
+        margin-bottom: 1rem;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        font-size: 1rem;
+      }
+      .contact-form button {
+        background-color: #f7931e;
+        color: white;
+        border: none;
+        padding: .75rem 1.5rem;
+        font-size: 1rem;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+      .contact-form button:hover {
+        opacity: 0.9;
+      }
+    </style>
+---
+
+<div class="contact-form">
+  <form id="contactForm">
+    <label for="name">Name *</label>
+    <input type="text" id="name" name="Name" required />
+
+    <label for="email">Email Address *</label>
+    <input type="email" id="email" name="Email" required />
+
+    <label for="message">Message *</label>
+    <textarea id="message" name="Message" rows="5" required></textarea>
+
+    <button 
+      type="button" 
+      onclick="handleContactSubmit()"
+    >Submit</button>
+  </form>
+</div>
+
+<script>
+  function handleContactSubmit() {
+    // 1) Show the thank-you pop-up
+    alert('Thank you for submitting your request! We will contact you shortly.');
+
+    // 2) Gather form values
+    var name    = encodeURIComponent(document.getElementById('name').value);
+    var email   = encodeURIComponent(document.getElementById('email').value);
+    var message = encodeURIComponent(document.getElementById('message').value);
+
+    // 3) Build the mailto URL
+    var subject    = 'New Contact Request from ' + name;
+    var body       = 'Name: ' + name + '\nEmail: ' + email + '\n\nMessage:\n' + message;
+    var mailtoLink = 'mailto:ahteshamonweb@gmail.com'
+                   + '?subject=' + subject
+                   + '&body='    + body;
+
+    // 4) Open the user’s email client
+    window.location.href = mailtoLink;
+  }
+</script>

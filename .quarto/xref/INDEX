@@ -1,0 +1,17 @@
+{
+  "contact.qmd": {
+    "contact.html": "5700bb21"
+  },
+  "resume.qmd": {
+    "resume.html": "a81d3898"
+  },
+  "projects.qmd": {
+    "projects.html": "9a3e8aca"
+  },
+  "index.qmd": {
+    "index.html": "450f1b46"
+  },
+  "skills.qmd": {
+    "skills.html": "a86196a3"
+  }
+}

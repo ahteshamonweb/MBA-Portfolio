@@ -1,0 +1,151 @@
+---
+title: ""
+format: html
+---
+
+```{=html}
+<style>
+/* Orange Download Button */
+.download-btn {
+  display: inline-block;
+  background-color: #f7931e;
+  color: #fff !important;
+  padding: 0.75rem 1.5rem;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  border: none;
+  cursor: pointer;
+}
+.download-btn:hover { opacity: 0.9; }
+
+/* Layout & Tables */
+table { width:100%; border-collapse: collapse; margin-bottom:1rem; }
+th, td { padding:0.5rem; vertical-align:top; }
+hr { border:none; border-top:1px solid #e0e0e0; margin:1rem 0; }
+</style>
+```
+
+<!-- Download Button -->
+
+<a href="images/Ahtesham_CV.pdf" download class="download-btn">Download CV</a>
+
+<!-- Header with Photo, Name, Title -->
+# AHTESHAM KHAN
+**Television & Digital media specialist**
+<hr>
+
+<!-- Contact Info -->
+
+<p><img src="images/Phone_icon.png" alt="Phone" width="30"/> (+1) 672-699-0202<br> <img src="images/email.png" alt="Email" width="30"/> <a href="mailto:ahteshamonweb@gmail.com">ahteshamonweb\@gmail.com</a><br> <img src="images/linkedin.png" alt="LinkedIn" width="30"/> <a href="https://linkedin.com/in/ahteshamkhan/">linkedin.com/in/ahteshamkhan/</a></p>
+
+<hr>
+
+## PROFESSIONAL SUMMARY
+
+Dynamic and results-oriented Media Producer with over 16 years of experience in video production, post-production, and brand storytelling across television and digital platforms. Adept at leading photo and video shoots, overseeing post-production workflows, and crafting high-quality visual content that enhances brand engagement and drives sales. Proven ability to coordinate with stakeholders, manage production resources, and align creative outputs with marketing goals. Passionate about creating compelling content that captivates audiences and converts viewers into customers.
+
+Worked with renowned broadcasters like NDTV Ltd. and Qatar Media Corporation, delivering successful projects.
+
+<hr>
+
+## CORE COMPETENCIES
+
+-   **Video Production & Post-Production**\
+    Expert in camera operations, lighting setups, sound recording; proficient in Avid Media Composer, Adobe Premiere Pro, After Effects.
+
+-   **Creative & Marketing Strategy**\
+    High-impact brand storytelling; content aligned with marketing goals across real estate, health, tech, fitness, and e-commerce.
+
+-   **Stakeholder & Resource Management**\
+    Production schedules, budgets, equipment, vendor & talent coordination.
+
+-   **Performance Analytics & Optimization**\
+    Content performance metrics, user-driven improvements, conversion rate optimization.
+
+<hr>
+
+## PROFESSIONAL EXPERIENCE
+
++-------------------------------------------+-----------------------+
+| **ZYRA Media LLP**, New Delhi, India      | *Nov 2016 – Jan 2024* |
+|                                           |                       |
+| *Founder*                                 |                       |
++===========================================+=======================+
+|                                           |                       |
++-------------------------------------------+-----------------------+
+
+-   Led end-to-end video production for digital content, marketing campaigns & branded storytelling.
+-   Managed photo/video shoots, post-production, budgets & vendors.
+-   Collaborated with marketing to create high-converting media content.
+
++-----------------------------------------------+-----------------------+
+| **Qatar Media Corporation**, Doha, Qatar      | *Nov 2018 – May 2019* |
+|                                               |                       |
+| Executive Producer                            |                       |
++===============================================+=======================+
+|                                               |                       |
++-----------------------------------------------+-----------------------+
+
+-   Led camera, editing & design teams to produce premium visual content.
+-   Managed production pipelines, schedules & budgets.
+-   Developed brand-aligned content strategies for TV & digital. \|
+
++--------------------------------------------------+-----------------------+
+| **NDTV Ltd.**, New Delhi, India                  | *Apr 2013 – Jul 2016* |
+|                                                  |                       |
+| Head of Entertainment Programming & Monetisation |                       |
++==================================================+=======================+
+|                                                  |                       |
++--------------------------------------------------+-----------------------+
+
+-   Directed content creation & marketing campaigns across TV & digital.
+-   Launched “Entertainment Band,” integrating celebrity dialogues, documentaries, music specials.
+-   Managed ad partnerships, sponsorships & event marketing initiatives. \|
+
++-----------------------------------------------+-----------------------+
+| **NDTV Ltd.**, New Delhi, India               | *Apr 2013 – Jul 2016* |
+|                                               |                       |
+| Head of Social Media Strategy                 |                       |
++===============================================+=======================+
+|                                               |                       |
++-----------------------------------------------+-----------------------+
+
+-   Designed integrated digital marketing & social campaigns.
+-   Optimized audience engagement on Twitter, Facebook & other platforms.
+-   Managed campaign briefs, media plans & cross-functional initiatives. \|
+
++-----------------------------------------------+-----------------------+
+| **NDTV Ltd.**, New Delhi, India               | *Apr 2008 – Mar 2013* |
+|                                               |                       |
+| Senior Producer                               |                       |
++===============================================+=======================+
+|                                               |                       |
++-----------------------------------------------+-----------------------+
+
+-   Produced & directed *The Property Show*; managed multi-camera & studio shoots.
+-   Increased show ratings by 30% via dynamic storytelling.
+-   Collaborated with marketing to optimize viewer engagement & sponsorship revenue. \|
+
++-----------------------------------------------+-----------------------+
+| **NDTV Ltd.**,New Delhi, India                | *Apr 2004 – Mar 2008* |
+|                                               |                       |
+| News Producer,                                |                       |
++===============================================+=======================+
+|                                               |                       |
++-----------------------------------------------+-----------------------+
+
+-   Multi-tasked across Avid & Premiere Pro; handled direction, mixing, output production.
+-   Produced prime-time bulletins, specials & in-depth features (*Emerging India*, *Mind of the Market*, *Fortune Traders*).
+-   Supported events: World Economic Summit, Business Leadership Awards, NDTV Car & Bike Awards, NDTV-Toyota Greenathon. \|
+
+<hr>
+
+## EDUCATION
+
+**University Canada West**, Vancouver, BC\
+*Master of Business Administration (Expected Sep 2025)*
+
+**Jamia Millia Islamia University**, New Delhi, India\
+*Bachelor of Arts, English Honors (May 2002)*

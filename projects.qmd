@@ -1,0 +1,154 @@
+---
+title: "Show Links"
+format: html
+include-in-header:
+  text: |
+    <style>
+      /* match your submit-button orange */
+      :root { --highlight:rgb(8, 8, 7); }
+
+      /* style and animate all headings */
+      h1, h2, h3, h4, h5, h6 {
+        color: var(--highlight);
+        opacity: 0;
+        animation: fadeIn 0.8s ease-out forwards;
+      }
+      /* stagger animations by heading level */
+      h1 { animation-delay: 0s; }
+      h2 { animation-delay: 0.2s; }
+      h3 { animation-delay: 0.4s; }
+      h4 { animation-delay: 0.6s; }
+      h5 { animation-delay: 0.8s; }
+      h6 { animation-delay: 1s; }
+
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(10px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+    </style>
+---
+______________________________________________________________________________
+
+## Executive Producer
+
+**The Real Deal**
+
+The Real Deal is the world’s first impact investing TV show and 360-degree property on social entrepreneurship. It serves to find, feature and fund India’s best for-profit social entrepreneurs by bringing them face to face with impact investors who are looking to invest in the next big thing.
+
+This high-stakes, entertaining show spans 10 episodes in a reality-game-show format, merging social change and entrepreneurship.
+
+[The Real Deal](https://sites.ndtv.com/therealdeal/video-detail/whos-the-mystery-investor-at-ithe-real-deali-gala-413966/)
+
+**Face of India (Social Media and TV Campaign)**
+
+Face of India, in association with Getty Images, discovers India’s best emerging portrait photographers. This amateur & enthusiast photography award shines a spotlight on up-and-coming non-professional and student talent, exposing and celebrating the art of portraiture.
+
+[Face of India (Social Media and TV Campaign)](https://www.ndtv.com/video/special/news/photography-competition-participate-now-387067)
+
+**Freewheeling Mercedes 125 yrs.**
+
+This half-hour documentary traces the successes, failures, and revival of Mercedes over the past 125 years. Sit back and enjoy the thrilling ride.
+
+[Freewheeling Mercedes 125 yrs.](https://www.ndtv.com/video/shows/freewheeling-around-the-world/125-years-of-the-automobile-189511)
+
+**Flashes in Time – Documentary on Photography**
+
+At the Delhi Photo Festival, photographers worldwide celebrate the stills that defined moments. This documentary explores how photography conveys struggle through dynamic exhibitions and shared experiences.
+
+[Flashes in Time – Documentary on Photography](https://www.ndtv.com/video/shows/ndtv-specials/flashes-in-time-a-documentary-on-photography-390777)
+
+**The Making of Luxurious Residential Project in Worli, Omkar 1973**
+
+Babulal Verma, MD of Omkar Realtors, discusses the vision and future plans behind Omkar 1973.
+
+[The Making of Luxurious Residential Project in Worli, Omkar 1973](https://www.youtube.com/watch?v=uitjqDxp74s)
+
+**The St. Regis Mumbai Preview by NDTV**
+
+Go behind the scenes at Mumbai’s iconic St. Regis. Meet extraordinary guests, explore the art collections, and discover the service ethos of this world-class hotel.
+
+[The St. Regis Mumbai Preview by NDTV](https://www.youtube.com/watch?v=rK6fAg7aiAk&t=385s)
+
+______________________________________________________________________________
+
+# Producer
+
+**Emerging India**
+
+A 13-episode documentary series on transformative technologies and infrastructure in India—from large-scale projects and healthcare to nuclear development and water-management solutions.
+
+[Status Check on Yamuna Expressway Project](https://www.ndtv.com/video/shows/emerging-india/status-check-on-yamuna-expressway-project-59940)  
+[Lavasa – An Integrated Township](https://www.ndtv.com/video/shows/emerging-india/lavasa-an-integrated-township-63000)  
+[Affordable Healthcare – A Dream for Many](https://www.ndtv.com/video/shows/emerging-india/affordable-healthcare-a-dream-for-many-77392)  
+[Emerging India: The Water Crisis](https://www.ndtv.com/video/shows/emerging-india/emerging-india-the-water-crisis-66844)
+
+**Car and Bike**
+
+An award-winning automobile show featuring expert reviews and industry news.
+
+[Review of Bajaj Kawasaki Ninja](https://www.ndtv.com/video/auto/the-car-and-bike-show/review-of-bajaj-kawasaki-ninja-112446)
+
+**Fortune Traders**
+
+A candid, 30-minute chat with Asian business titans like Tony Fernandes and Olivia Lum, exploring their journeys from rags to riches.
+
+[Branson of Asia](https://www.ndtv.com/video/shows/fortune-traders/branson-of-asia-141830)  
+[Lucky to Be Born Poor](https://www.ndtv.com/video/shows/fortune-traders/lucky-to-be-born-poor-145290)  
+[Banyan Tree Has Big Plans for India](https://www.ndtv.com/video/shows/fortune-traders/banyan-tree-has-big-plans-for-india-144054)
+
+**Boss' Day Out**
+
+Follow company bosses through their daily routines—from home to office to leisure—to get an insider’s view of leadership in action.
+
+[Boss’ Day Out – Ramesh Chauhan](https://www.ndtv.com/video/shows/boss-s-day-out/boss-day-out-ramesh-chauhan-94116)  
+[Boss’ Day Out (YouTube)](https://www.youtube.com/watch?v=h767NLijRsQ)
+
+**Royal Challenge Corporate Clash-a-thon 2010**
+
+In Goa, over 30 corporates solved complex challenges in a reality-format competition.
+
+[Stage 3 of R.C.’s Corporate Clash-a-thon](https://www.ndtv.com/video/shows/ndtv-special-ndtv-profit/stage-3-of-rc-s-corporate-clash-a-thon-177124)
+
+______________________________________________________________________________
+
+# Head of Programming – Property Band
+
+India’s only daily real-estate guide, The Property Show decodes opaque markets with news, policy insights, and design and finance analysis—synergized with NDTV.com.
+
+**The Property Show & The Real(ty) Debate**
+
+A daily prime-time segment on NDTV PROFIT and a weekly debate, addressing viewer queries and engaging industry leaders in property debates.
+
+[Upper-End Homes in Delhi – ₹1 Cr Budget](https://www.ndtv.com/video/property/the-property-show/the-property-show-upper-end-homes-in-delhi-in-rs-1-cr-budget-238139)  
+[Home Loans with Optimal Tax Benefit](https://www.ndtv.com/video/property/the-property-show/the-property-show-home-loans-with-optimal-tax-benefit-224521)
+
+**Big Guns of Real Estate**
+
+A visual documentary profiling India’s top developers, their history, growth and leadership vision.
+
+[Godrej Properties – The Realty Trailblazer](https://www.ndtv.com/video/property/big-guns-of-real-estate/godrej-properties-the-realty-trailblazer-312610)  
+[Young Guns – Darshan Hiranandani on Realty Markets](https://www.ndtv.com/video/property/young-guns-of-real-estate/young-guns-darshan-hiranandani-on-dubai-indian-really-markets-256666)
+
+______________________________________________________________________________
+
+# Awards and Events
+
+**NDTV Property Awards**
+
+Recognizing excellence in Indian real estate, inaugurated with Chief Guest Shri Ajay Maken.
+
+[NDTV Property Awards 2013](https://www.ndtv.com/video/shows/ndtv-special-ndtv-profit/ndtv-property-awards-2013-279414)
+
+**NDTV Design & Architecture of the Year Awards**
+
+Celebrating innovation, sustainability, and design excellence in building projects.
+
+[Grohe Presents: NDTV Design & Architecture of the Year Awards](https://www.ndtv.com/video/shows/ndtv-special-ndtv-profit/grohe-presents-ndtv-design-and-architecture-of-the-year-awards-315061)
+
+**NDTV Car and Bike Awards 2016**
+
+Honoring the best in automotive design and performance.
+
+[NDTV Car and Bike Awards 2016](https://www.ndtv.com/video/auto/the-car-and-bike-show/ndtv-car-and-bike-awards-2016-394855)
+
+______________________________________________________________________________

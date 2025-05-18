@@ -1,0 +1,16 @@
+# Ahtesham Khan
+
+::: fade-in-text
+Television & Digital Media Specialist \| Founder at Zyra Media \| Expertise in Content Development, Production, and Social Media Strategy \| 16+ Years in Leading Creative Teams and Engaging Audiences.
+:::
+
+<!-- Parallax Section -->
+
+::: parallax-section
+:::
+
+## About Me
+
+::: fade-in-text
+I’m a seasoned Television & Digital Media Specialist and Founder at Zyra Media, with over 16 years of experience crafting compelling stories and leading creative teams from concept to broadcast. In my prior roles as Executive Producer at NDTV Ltd. and Qatar Media Corporation, I developed and executed end‐to‐end content strategies—ranging from high‐impact TV programs and branded digital series to social‐first campaigns that resonate across platforms. My expertise spans content development, multi‐camera production, post‐production workflows, and performance‐driven social media strategy. I partner closely with marketing, design, and analytics teams to ensure every project not only captivates audiences but also drives measurable business outcomes. Whether it’s a live studio show, an immersive branded experience, or a viral short‐form video, I thrive on bringing inventive ideas to life and amplifying brand stories that engage, inspire, and deliver ROI.
+:::
