@@ -16,7 +16,7 @@ title: "Skills & Certifications"
 
 **Scrum Master Certification Specialization**
 
-![](Images/Scrum Master Certification Specialization.jpg)
+![](images/Scrum%20Master%20Certification%20Specialization.jpg)
 
 **How to create Jira scrum project**
 
