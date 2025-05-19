@@ -30,12 +30,13 @@ title: "Skills & Certifications"
 
 ![](images/Foundations%20of%20Digital%20Marketing%20and%20E-commerce.jpg)
 
-**Foundations of Project Management** 
-![](images/Foundations%20of%20Project%20Management.jpg)
-
 **DMI_Certificate**
 
 ![](images/DMICertificate.jpg)
+
+**Foundations of Project Management** 
+
+![](images/Foundations%20of%20Project%20Management.jpg)
 
 **CertificateOfCompletion_Digital Marketing Foundations**
 
