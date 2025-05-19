@@ -20,17 +20,18 @@ title: "Skills & Certifications"
 
 **How to create Jira scrum project**
 
-![](Images/How%20to%20create%20Jira%20scrum%20project.jpg)
+![](images/How%20to%20create%20Jira%20scrum%20project.jpg)
 
 **Agile Project Management**
 
-![](Images/Agile%20Project%20Management.jpg)
+![](images/Agile%20Project%20Management.jpg)
 
 **Foundations of Digital Marketing and E-commerce**
 
-![](Images/Foundations%20of%20Digital%20Marketing%20and%20E-commerce.jpg)
+![](images/Foundations%20of%20Digital%20Marketing%20and%20E-commerce.jpg)
 
-**Foundations of Project Management** ![](Images/Foundations%20of%20Project%20Management.jpg)
+**Foundations of Project Management** 
+![](images/Foundations%20of%20Project%20Management.jpg)
 
 **DMI_Certificate**
 
@@ -38,28 +39,28 @@ title: "Skills & Certifications"
 
 **CertificateOfCompletion_Digital Marketing Foundations**
 
-![](Images/CertificateOfCompletion_Digital%20Marketing%20Foundations.jpg)
+![](images/CertificateOfCompletion_Digital%20Marketing%20Foundations.jpg)
 
 **CertificateOfCompletion_Marketing on Instagram 2020**
 
-![](Images/CertificateOfCompletion_Marketing%20on%20Instagram%202020.jpg)
+![](images/CertificateOfCompletion_Marketing%20on%20Instagram%202020.jpg)
 
 **CertificateOfCompletion_Marketing Tools Social Media**
 
-![](Images/CertificateOfCompletion_Marketing%20Tools%20Social%20Media.jpg)
+![](images/CertificateOfCompletion_Marketing%20Tools%20Social%20Media.jpg)
 
 **CertificateOfCompletion_Premiere Pro 2022 Essential Training**
 
-![](Images/CertificateOfCompletion_Premiere%20Pro%202022%20Essential%20Training.jpg)
+![](images/CertificateOfCompletion_Premiere%20Pro%202022%20Essential%20Training.jpg)
 
 **CertificateOfCompletion_Remarketing Strategies with Google Ads and Analytics**
 
-![](Images/CertificateOfCompletion_Remarketing%20Strategies%20with%20Google%20Ads%20and%20Analytics.jpg)
+![](images/CertificateOfCompletion_Remarketing%20Strategies%20with%20Google%20Ads%20and%20Analytics.jpg)
 
 **CertificateOfCompletion_Social Media Marketing Strategy TikTok and Instagram Reels**
 
-![](Images/CertificateOfCompletion_Social%20Media%20Marketing%20Strategy%20TikTok%20and%20Instagram%20Reels.jpg)
+![](images/CertificateOfCompletion_Social%20Media%20Marketing%20Strategy%20TikTok%20and%20Instagram%20Reels.jpg)
 
 **CertificateOfCompletion_Social Media Monitoring Strategies and Skills**
 
-![](Images/CertificateOfCompletion_Social%20Media%20Monitoring%20Strategies%20and%20Skills.jpg)
+![](images/CertificateOfCompletion_Social%20Media%20Monitoring%20Strategies%20and%20Skills.jpg)
