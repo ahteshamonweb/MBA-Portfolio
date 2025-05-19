@@ -34,7 +34,7 @@ title: "Skills & Certifications"
 
 **DMI_Certificate**
 
-![](Images/DMI_Certificate.jpg)
+![](images/DMICertificate.jpg)
 
 **CertificateOfCompletion_Digital Marketing Foundations**
 
