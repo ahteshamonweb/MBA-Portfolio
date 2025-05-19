@@ -29,7 +29,7 @@ hr { border:none; border-top:1px solid #e0e0e0; margin:1rem 0; }
 
 <!-- Download Button -->
 
-<a href="images/Ahtesham_CV.pdf" download class="download-btn">Download CV</a>
+<a href="images/Ahtesham_Resume.pdf" download class="download-btn">Download CV</a>
 
 <!-- Header with Photo, Name, Title -->
 
@@ -71,13 +71,13 @@ Worked with renowned broadcasters like NDTV Ltd. and Qatar Media Corporation, de
 
 ## PROFESSIONAL EXPERIENCE
 
-+------------------------------------------+-----------------------+
-| **ZYRA Media LLP**, New Delhi, India     | *Nov 2016 – Jan 2024* |
-|                                          |                       |
-| *Founder*                                |                       |
-+==========================================+=======================+
-|                                          |                       |
-+------------------------------------------+-----------------------+
++-----------------------------------------+-----------------------+
+| **ZYRA Media LLP**, New Delhi, India    | *Nov 2016 – Jan 2024* |
+|                                         |                       |
+| *Founder*                               |                       |
++=========================================+=======================+
+|                                         |                       |
++-----------------------------------------+-----------------------+
 
 -   Led end-to-end video production for digital content, marketing campaigns & branded storytelling.
 -   Managed photo/video shoots, post-production, budgets & vendors.
@@ -93,7 +93,7 @@ Worked with renowned broadcasters like NDTV Ltd. and Qatar Media Corporation, de
 
 -   Led camera, editing & design teams to produce premium visual content.
 -   Managed production pipelines, schedules & budgets.
--   Developed brand-aligned content strategies for TV & digital. \|
+-   Developed brand-aligned content strategies for TV & digital.\
 
 +--------------------------------------------------+-----------------------+
 | **NDTV Ltd.**, New Delhi, India                  | *Apr 2013 – Jul 2016* |
@@ -105,7 +105,7 @@ Worked with renowned broadcasters like NDTV Ltd. and Qatar Media Corporation, de
 
 -   Directed content creation & marketing campaigns across TV & digital.
 -   Launched “Entertainment Band,” integrating celebrity dialogues, documentaries, music specials.
--   Managed ad partnerships, sponsorships & event marketing initiatives. \|
+-   Managed ad partnerships, sponsorships & event marketing initiatives.\
 
 +-----------------------------------------------+-----------------------+
 | **NDTV Ltd.**, New Delhi, India               | *Apr 2013 – Jul 2016* |
@@ -117,7 +117,7 @@ Worked with renowned broadcasters like NDTV Ltd. and Qatar Media Corporation, de
 
 -   Designed integrated digital marketing & social campaigns.
 -   Optimized audience engagement on Twitter, Facebook & other platforms.
--   Managed campaign briefs, media plans & cross-functional initiatives. \|
+-   Managed campaign briefs, media plans & cross-functional initiatives.\
 
 +-----------------------------------------------+-----------------------+
 | **NDTV Ltd.**, New Delhi, India               | *Apr 2008 – Mar 2013* |
@@ -129,19 +129,19 @@ Worked with renowned broadcasters like NDTV Ltd. and Qatar Media Corporation, de
 
 -   Produced & directed *The Property Show*; managed multi-camera & studio shoots.
 -   Increased show ratings by 30% via dynamic storytelling.
--   Collaborated with marketing to optimize viewer engagement & sponsorship revenue. \|
+-   Collaborated with marketing to optimize viewer engagement & sponsorship revenue.\
 
 +-----------------------------------------------+-----------------------+
-| **NDTV Ltd.**,New Delhi, India                | *Apr 2004 – Mar 2008* |
+| **NDTV Ltd.**, New Delhi, India               | *Apr 2004 – Mar 2008* |
 |                                               |                       |
-| News Producer,                                |                       |
+| News Producer                                 |                       |
 +===============================================+=======================+
 |                                               |                       |
 +-----------------------------------------------+-----------------------+
 
 -   Multi-tasked across Avid & Premiere Pro; handled direction, mixing, output production.
 -   Produced prime-time bulletins, specials & in-depth features (*Emerging India*, *Mind of the Market*, *Fortune Traders*).
--   Supported events: World Economic Summit, Business Leadership Awards, NDTV Car & Bike Awards, NDTV-Toyota Greenathon. \|
+-   Supported events: World Economic Summit, Business Leadership Awards, NDTV Car & Bike Awards, NDTV-Toyota Greenathon.\
 
 <hr>
 
